@@ -1,1 +1,3 @@
-This is a predictive Lead Scoring Model
+# Lead Scoring Model
+
+This is a predictive Lead Scoring Model.
